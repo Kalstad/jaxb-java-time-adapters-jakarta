@@ -38,7 +38,7 @@ Source code is licensed under Apache 2.0 licence.
 
 ### Releases
 Release 1.1.3 is the current latest release.
-It depends on JDK 1.8 or later.
+It depends on Java 17 or later.
 
 Available in the [Maven Central repository](http://search.maven.org/#artifactdetails|com.migesok|jaxb-java-time-adapters|1.1.3|jar)
 
