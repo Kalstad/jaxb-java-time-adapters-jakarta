@@ -1,8 +1,8 @@
 package com.migesok.jaxb.adapter.javatime;
 
 import java.lang.reflect.InvocationTargetException;
-import javax.annotation.Nonnull;
-import javax.xml.bind.annotation.adapters.XmlAdapter;
+import jakarta.annotation.Nonnull;
+import jakarta.xml.bind.annotation.adapters.XmlAdapter;
 import org.junit.Before;
 import org.junit.Test;
 

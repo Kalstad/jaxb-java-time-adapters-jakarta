@@ -1,7 +1,7 @@
 package com.migesok.jaxb.adapter.javatime;
 
-import javax.annotation.Nonnull;
-import javax.xml.bind.annotation.adapters.XmlAdapter;
+import jakarta.annotation.Nonnull;
+import jakarta.xml.bind.annotation.adapters.XmlAdapter;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAccessor;
 import java.time.temporal.TemporalQuery;
@@ -23,7 +23,7 @@ import static java.util.Objects.requireNonNull;
  * </pre>
  *
  * @param <T> mapped temporal type
- * @see javax.xml.bind.annotation.adapters.XmlAdapter
+ * @see jakarta.xml.bind.annotation.adapters.XmlAdapter
  * @see java.time.temporal.TemporalAccessor
  * @see java.time.format.DateTimeFormatter
  */
